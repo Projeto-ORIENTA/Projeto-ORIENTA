@@ -8,7 +8,7 @@
 
 ## 🤔 Quem somos
 
-O **Orienta** é uma plataforma centralizada que reúne os principais informativos escolares, avisos da gestão e comunicados do grêmio estudantil.
+O **ORIENTA** é uma plataforma centralizada que reúne os principais informativos escolares, avisos da gestão e comunicados do grêmio estudantil.
 
 Além disso, oferecemos recursos voltados diretamente para o estudante, como:
 
@@ -37,7 +37,7 @@ Criar uma ponte entre estudantes, escolas e o futuro, promovendo acesso à infor
 
 ## 💬 Entre em contato
 
-Quer colaborar, apoiar ou saber mais sobre o Orienta?  
+Quer colaborar, apoiar ou saber mais sobre o ORIENTA?  
 Entre em contato conosco por [aqui](mailto:projetoorienta.etejbl@gmail.com) ou via redes sociais!
 
 ---
